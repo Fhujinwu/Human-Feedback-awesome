@@ -10,6 +10,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 ## <a name="human-feedback-LLM">Human Feedback for LLM</a>
 * InstructGPT: Training Language Models to Follow Instructions With Human Feedback, nips'22. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf) [[video]](https://www.bilibili.com/video/BV1hd4y187CR/)
 * Constitutional AI: Harmlessness from AI Feedback, arxiv'22. [[paper]](https://arxiv.org/pdf/2212.08073.pdf)
+* Direct Preference Optimization:Your Language Model is Secretly a Reward Model, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.18290.pdf) [[code]](https://github.com/eric-mitchell/direct-preference-optimization) [[blogs]](https://zhuanlan.zhihu.com/p/634705904)
 * RRHF: Rank responses to align language models with human feedback without tears, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05302.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blogs]](https://mp.weixin.qq.com/s/MiToPmFuNXY9wJcKH7pZPw)
 * RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.06767.pdf) [[code]](https://github.com/OptimalScale/LMFlow) [[blogs]](https://mp.weixin.qq.com/s/rhO0bE8CCQsQzsH3kdTbCA)
 * Fine-Grained Human Feedback Gives Better Rewards for Language Model Training, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.01693.pdf) [[code]](https://github.com/allenai/FineGrainedRLHF) [[blogs]](https://mp.weixin.qq.com/s/iqf6Tw2iyYNAUoAj3f1MNw)
