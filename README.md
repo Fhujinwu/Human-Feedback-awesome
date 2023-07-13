@@ -14,6 +14,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * RRHF: Rank responses to align language models with human feedback without tears, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05302.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blogs]](https://mp.weixin.qq.com/s/MiToPmFuNXY9wJcKH7pZPw)
 * RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.06767.pdf) [[code]](https://github.com/OptimalScale/LMFlow) [[blogs]](https://mp.weixin.qq.com/s/rhO0bE8CCQsQzsH3kdTbCA)
 * Fine-Grained Human Feedback Gives Better Rewards for Language Model Training, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.01693.pdf) [[code]](https://github.com/allenai/FineGrainedRLHF) [[blogs]](https://mp.weixin.qq.com/s/iqf6Tw2iyYNAUoAj3f1MNw)
+* Fine-Tuning Language Models with Advantage-Induced Policy Alignment, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.02231.pdf)
 
 ## <a name="human-feedback-Text-image">Human Feedback for Text-Image</a>
 * Aligning text-to-image models using human feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.12192.pdf)  [[blogs]](https://mp.weixin.qq.com/s/FrqpybryiJ-ikO4ZVeISIg)
