@@ -18,6 +18,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Fine-Tuning Language Models with Advantage-Induced Policy Alignment, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.02231.pdf)
 * Scaling Laws for Reward Model Overoptimization, ICLR'23. [[paper]](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
 * Reward Collapse in Aligning Large Language Models, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.17608.pdf) [[blogs]](https://mp.weixin.qq.com/s/REqLcA9CMEM8M7DYZpuC-Q)
+* Chain of Hindsight Aligns Language Models with Feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.02676.pdf)
 
 ## <a name="human-feedback-Text-image">Human Feedback for Text-Image</a>
 * Aligning text-to-image models using human feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.12192.pdf)  [[blogs]](https://mp.weixin.qq.com/s/FrqpybryiJ-ikO4ZVeISIg)
