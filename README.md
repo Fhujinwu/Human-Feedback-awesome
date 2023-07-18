@@ -9,6 +9,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 
 ## <a name="human-feedback-LLM">Human Feedback for LLM</a>
 * InstructGPT: Training Language Models to Follow Instructions With Human Feedback, nips'22. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf) [[video]](https://www.bilibili.com/video/BV1hd4y187CR/)
+* Fine-tuning language models to find agreement among humans with diverse preferences, nips'22. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
 * Constitutional AI: Harmlessness from AI Feedback, arxiv'22. [[paper]](https://arxiv.org/pdf/2212.08073.pdf)
 * Direct Preference Optimization:Your Language Model is Secretly a Reward Model, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.18290.pdf) [[code]](https://github.com/eric-mitchell/direct-preference-optimization) [[blogs]](https://zhuanlan.zhihu.com/p/634705904)
 * RRHF: Rank responses to align language models with human feedback without tears, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05302.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blogs]](https://mp.weixin.qq.com/s/MiToPmFuNXY9wJcKH7pZPw)
@@ -16,6 +17,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Fine-Grained Human Feedback Gives Better Rewards for Language Model Training, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.01693.pdf) [[code]](https://github.com/allenai/FineGrainedRLHF) [[blogs]](https://mp.weixin.qq.com/s/iqf6Tw2iyYNAUoAj3f1MNw)
 * Fine-Tuning Language Models with Advantage-Induced Policy Alignment, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.02231.pdf)
 * Scaling Laws for Reward Model Overoptimization, ICLR'23. [[paper]](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
+* Reward Collapse in Aligning Large Language Models, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.17608.pdf) [[blogs]](https://mp.weixin.qq.com/s/REqLcA9CMEM8M7DYZpuC-Q)
 
 ## <a name="human-feedback-Text-image">Human Feedback for Text-Image</a>
 * Aligning text-to-image models using human feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.12192.pdf)  [[blogs]](https://mp.weixin.qq.com/s/FrqpybryiJ-ikO4ZVeISIg)
