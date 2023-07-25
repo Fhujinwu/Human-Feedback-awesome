@@ -31,7 +31,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05977.pdf) [[code]](https://github.com/THUDM/ImageReward)
 
 ## <a name="human-feedback-Robot-control">Human Feedback for Robot Control</a>
-*Feedback-efficient interactive reinforcement learning via relabeling experience and unsupervised pre-training, ICML'21. [[paper]](https://proceedings.mlr.press/v139/lee21i.html)
+* Feedback-efficient interactive reinforcement learning via relabeling experience and unsupervised pre-training, ICML'21. [[paper]](https://proceedings.mlr.press/v139/lee21i.html)
 
 ## <a name="about-RL">About Reinforcement Learning</a>
 * Augmented Proximal Policy Optimization for Safe Reinforcement Learning, AAAI'23. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25888)
