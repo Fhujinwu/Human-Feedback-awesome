@@ -6,6 +6,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 
 - <a href="#human-feedback-LLM">Human Feedback for LLM</a>
 - <a href="#human-feedback-Text-image">Human Feedback for Text-Image</a>
+- <a href="#human-feedback-Robot-control">Human Feedback for Robot Control</a>
 - <a href="#about-RL">About Reinforcement Learning</a>
 
 ## <a name="human-feedback-LLM">Human Feedback for LLM</a>
@@ -28,6 +29,9 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Better aligning text-to-image models with human preference, arxiv'23. [[paper]](https://arxiv.org/pdf/2303.14420.pdf) [[code]](https://github.com/tgxs002/align_sd)
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.16381.pdf)
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05977.pdf) [[code]](https://github.com/THUDM/ImageReward)
+
+## <a name="human-feedback-Robot-control">Human Feedback for Robot Control</a>
+*Feedback-efficient interactive reinforcement learning via relabeling experience and unsupervised pre-training, ICML'21. [[paper]](https://proceedings.mlr.press/v139/lee21i.html)
 
 ## <a name="about-RL">About Reinforcement Learning</a>
 * Augmented Proximal Policy Optimization for Safe Reinforcement Learning, AAAI'23. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25888)
