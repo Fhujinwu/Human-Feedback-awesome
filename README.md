@@ -31,10 +31,15 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Better aligning text-to-image models with human preference, arxiv'23. [[paper]](https://arxiv.org/pdf/2303.14420.pdf) [[code]](https://github.com/tgxs002/align_sd)
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.16381.pdf)
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, arxiv'23. [[paper]](https://arxiv.org/pdf/2304.05977.pdf) [[code]](https://github.com/THUDM/ImageReward)
+* AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.04717.pdf) [[code]](https://github.com/lcysyzxdxc/AGIQA-3k-Database?utm_source=catalyzex.com)
+* AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI Generated Images: from the Perspectives of Quality, Authenticity and Correspondence, arxiv'23. [[paper]](https://arxiv.org/pdf/2307.00211.pdf) [[code]](https://github.com/wangjiarui153/AIGCIQA2023)
+* Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation, arxiv'23. [[paper]](https://arxiv.org/pdf/2305.01569.pdf)
+* Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis, arxiv'23. [[paper]](https://arxiv.org/pdf/2306.09341.pdf) [[code]](https://github.com/tgxs002/HPSv2)
 
 ## <a name="human-feedback-Robot-control">Human Feedback for Robot Control</a>
 * Aligning human preferences with baseline objectives in reinforcement learning, icra'23. [[paper]](https://www.diva-portal.org/smash/get/diva2:1744884/FULLTEXT01.pdf)
 * Feedback-efficient interactive reinforcement learning via relabeling experience and unsupervised pre-training, icml'21. [[paper]](https://proceedings.mlr.press/v139/lee21i.html)
+* 
 
 ## <a name="about-RL">About Reinforcement Learning</a>
 * Augmented Proximal Policy Optimization for Safe Reinforcement Learning, aaai'23. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25888)
