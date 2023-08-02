@@ -25,6 +25,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Principled Reinforcement Learning with Human Feedback from Pairwise or K, arxiv'23. [[paper]](https://arxiv.org/pdf/2301.11270.pdf)
 * Reinforcement Learning from Diverse Human Preferences, arxiv'23. [[paper]](https://arxiv.org/pdf/2301.11774.pdf)
 * Personalisation within bounds: A risk taxonomy and policy framework for the alignment of large language models with personalised feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2303.05453.pdf)
+* Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization, iclr'23. [[paper]](https://arxiv.org/pdf/2210.01241.pdf) [[code]](https://github.com/allenai/RL4LMs)
 
 ## <a name="human-feedback-Text-image">Human Feedback for Text-Image</a>
 * Aligning text-to-image models using human feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.12192.pdf)  [[blogs]](https://mp.weixin.qq.com/s/FrqpybryiJ-ikO4ZVeISIg)
