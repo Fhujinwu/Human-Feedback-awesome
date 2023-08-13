@@ -10,6 +10,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 - <a href="#about-RL">About Reinforcement Learning</a>
 
 ## <a name="human-feedback-LLM">Human Feedback for LLM</a>
+* Recursively Summarizing Books with Human Feedback, arxiv'22. [[paper]](https://arxiv.org/pdf/2109.10862.pdf)
 * InstructGPT: Training Language Models to Follow Instructions With Human Feedback, nips'22. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf) [[video]](https://www.bilibili.com/video/BV1hd4y187CR/)
 * Fine-tuning language models to find agreement among humans with diverse preferences, nips'22. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f978c8f3b5f399cae464e85f72e28503-Paper-Conference.pdf)
 * Constitutional AI: Harmlessness from AI Feedback, arxiv'22. [[paper]](https://arxiv.org/pdf/2212.08073.pdf)
