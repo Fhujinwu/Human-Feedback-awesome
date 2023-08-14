@@ -30,6 +30,7 @@ Please feel free to [open an issue](Fhujinwu/Human-Feedback-For-LLM-awesome) to 
 * Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization, iclr'23. [[paper]](https://arxiv.org/pdf/2210.01241.pdf) [[code]](https://github.com/allenai/RL4LMs)
 * How to Query Human Feedback Efficiently in RL? arxiv'23. [[paper]](https://arxiv.org/pdf/2305.18505.pdf)
 * Pretraining Language Models with Human Preferences, icml'23. [[paper]](https://proceedings.mlr.press/v202/korbak23a/korbak23a.pdf)
+* Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2307.15217.pdf)
 
 ## <a name="human-feedback-Text-image">Human Feedback for Text-Image</a>
 * Aligning text-to-image models using human feedback, arxiv'23. [[paper]](https://arxiv.org/pdf/2302.12192.pdf)  [[blogs]](https://mp.weixin.qq.com/s/FrqpybryiJ-ikO4ZVeISIg)
